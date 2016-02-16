@@ -1,4 +1,4 @@
 <?php 
-echo "hello world!"
-echo "First deploy"
+echo "hello world!";
+echo "First deploy";
 ?>
